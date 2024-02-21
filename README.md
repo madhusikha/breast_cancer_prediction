@@ -20,6 +20,7 @@ Used 70% of the data for Training and 30% for Testing all the models.
 
 Results:
 Mostly Logistic Regression (with different variations) is used for predicting the target and Adaboost model as shown below:
+
 ![Alt text](https://github.com/madhusikha/breast_cancer_prediction/blob/main/results.png)
 
 Conclusion:
